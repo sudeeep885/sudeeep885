@@ -20,24 +20,24 @@
 
 ### ✅ Tools and Languages :
 <p align="center">
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/40/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/38/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/38/000000/css3.png"/>
-<img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/material-rounded/37/000000/django.png"/>
-<img src="https://img.icons8.com/fluent/37/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/40/000000/git.png"/>
-<img src="https://img.icons8.com/color/38/000000/bitbucket.png"/>
-<img src="https://img.icons8.com/color/36/000000/heroku.png"/>
-<img src="https://img.icons8.com/color/37/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/ios/45/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/37/000000/mongodb.png"/>
-<img width ="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
-<img height="36" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-<img src="https://img.icons8.com/nolan/38/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/42/000000/sublime-text.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
+<img height="48px" width="48px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
+<img height="37px" width="37px" src="https://img.icons8.com/material-rounded/100/000000/django.png"/>
+<img height="37px" width="37px" src="https://img.icons8.com/fluent/100/000000/windows-10.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bitbucket.png"/>
+<img height="36px" width="36px" src="https://img.icons8.com/color/100/000000/heroku.png"/>
+<img height="37px" width="37px" src="https://img.icons8.com/color/100/000000/postgreesql.png"/>
+<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
+<img height="37px" width="37px" src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+<img height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+<img height="36px" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+<img height="38px" width="38px" src="https://img.icons8.com/nolan/100/visual-studio-code-2019.png"/>
+<img height="42px" width="42px" src="https://img.icons8.com/color/100/000000/sublime-text.png"/>
 </p>
 
 ### My Blogs 🎉:
