@@ -1,5 +1,5 @@
 ## ✨ Hello there 👋, I'm
-[<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Sudeep%20Chowdhary&fontSize=70&fontAlignY=55" />](https://sudeep885.bitbucket.io/)
+[<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Sudeep%20Chowdhary&fontSize=70&fontAlignY=55" />](https://sudeep885.bitbucket.io/)
 
 
 - 🔭 I’m a Web Developer, Pythonist and Data Science/Machine Learning/Deep Learning Enthusiast.
@@ -19,19 +19,26 @@
 ---
 
 ### ✅ Tools and Languages :
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
+<p align="center">
+<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/40/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/38/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/38/000000/css3.png"/>
+<img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/material-rounded/37/000000/django.png"/>
+<img src="https://img.icons8.com/fluent/37/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/40/000000/git.png"/>
+<img src="https://img.icons8.com/color/38/000000/bitbucket.png"/>
+<img src="https://img.icons8.com/color/36/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/37/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/ios/45/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/37/000000/mongodb.png"/>
+<img width ="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+<img height="36" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+<img src="https://img.icons8.com/nolan/38/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/42/000000/sublime-text.png"/>
+</p>
 
 ### My Blogs 🎉:
 - [Best Data Science Books for Beginners](http://myflaskblog.pythonanywhere.com/3)
