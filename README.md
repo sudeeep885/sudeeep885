@@ -1,5 +1,5 @@
-## ✨ Hello there, I'm
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Sudeep%20Chowdhary&fontSize=70" />
+## ✨ Hello there 👋, I'm
+[<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Sudeep%20Chowdhary&fontSize=70&fontAlignY=55" />](https://sudeep885.bitbucket.io/)
 
 
 - 🔭 I’m a Web Developer, Pythonist and Data Science/Machine Learning/Deep Learning Enthusiast.
