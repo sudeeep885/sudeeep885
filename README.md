@@ -1,4 +1,6 @@
-### ✨ Hello there 👋, I'm [Sudeep Chowdhary](https://sudeep885.bitbucket.io/)
+## ✨ Hello there, I'm
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=header&text=Sudeep%20Chowdhary&fontSize=70" />
+
 
 - 🔭 I’m a Web Developer, Pythonist and Data Science/Machine Learning/Deep Learning Enthusiast.
 - 💻 Worked as a Python Web Developer at Algoix Tech LLP.
