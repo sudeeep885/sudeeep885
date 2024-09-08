@@ -2,12 +2,13 @@
 [<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Sudeep%20Chowdhary&fontSize=70&fontAlignY=55" />](https://sudeep885.bitbucket.io/)
 
 
-- 🔭 I’m a Web Developer, Pythonist and Data Science/Machine Learning/Deep Learning Enthusiast.
+- 🔭 Pursuing MS by Research in CSE at IIT MADRAS.
+<!-- --> 
 - 💻 Worked as a Python Web Developer at Algoix Tech LLP.
-- 🌱 I’m currently learning Machine learning and Deep Learning through various courses and projects. Also trying to build strong skills in Data Structures and Algorithms. Solving problems on codeforces platform.
+<!--- - 🌱 I’m currently learning Machine learning and Deep Learning through various courses and projects. Also trying to build strong skills in Data Structures and Algorithms. Solving problems on codeforces platform. -->
 - 🎓 Completed Deep learning Specialization on Coursera by the great Andrew Ng Sir, currently on TensorFlow Specialization. 
 
-- ⚡ Fun fact: Love to try new custom roms on my OP5T.
+<!---- ⚡ Fun fact: Love to try new custom roms on my OP5T. -->
 
 ### Connect with me 💭: 
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
