@@ -45,10 +45,6 @@
 <img height="42px" width="42px" src="https://img.icons8.com/color/100/000000/sublime-text.png"/>
 </p>
 
-### My Blogs 🎉:
-- [Best Data Science Books for Beginners](http://myflaskblog.pythonanywhere.com/3)
-- [Steps To Become A Successful Data Scientist](http://myflaskblog.pythonanywhere.com/2)
-
 <br>
 
 ![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=sudeeep885&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
